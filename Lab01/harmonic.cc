@@ -3,7 +3,7 @@
  * @file harmonic.cpp
  * @author Dave Perkins
  * @collaborators Darren Strash, Alistair Campbell
- * @date January 14, 2022
+ * @date January 19, 2022
  */
 #include <iostream>
 
